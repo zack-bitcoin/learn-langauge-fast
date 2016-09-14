@@ -9,5 +9,5 @@ First you use language A to define a handful of words in language B. Then you us
 
 Bootstrapping is popular because the users of language B only need to learn language B. They can even understand the source code of language B, without having to learn any other language.
 
-This program for bootstrapping with human language.
+This program is for bootstrapping with human language.
 First you learn a handful of words in your target language, then you use those words to talk to native speakers. The native speakers teach you how to speak properly.
